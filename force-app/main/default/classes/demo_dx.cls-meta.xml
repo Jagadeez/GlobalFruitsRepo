@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ApexClass xmlns="urn:metadata.tooling.soap.sforce.com" fqn="dx_class">
+<ApexClass xmlns="urn:metadata.tooling.soap.sforce.com" fqn="demo_dx">
     <apiVersion>45.0</apiVersion>
     <status>Active</status>
 </ApexClass>

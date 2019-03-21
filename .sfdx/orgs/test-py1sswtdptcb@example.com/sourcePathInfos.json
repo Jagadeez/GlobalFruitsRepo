@@ -9,7 +9,7 @@
             "changeTime": 1553105036426,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -24,7 +24,7 @@
             "changeTime": 1553105036426,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -37,9 +37,9 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1553152010894,
-            "changeTime": 1553152010894,
-            "contentHash": "1ac95324ce0f74f2726d3242841d0c1a75b55bdc"
+            "modifiedTime": 1553170805638,
+            "changeTime": 1553170805638,
+            "contentHash": "bb150c65c93e16b6f0f9d6726b70a69d9e8cc651"
         }
     ],
     [
@@ -52,7 +52,7 @@
             "changeTime": 1553105036427,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -67,7 +67,7 @@
             "changeTime": 1553105152994,
             "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -82,7 +82,7 @@
             "changeTime": 1553106206874,
             "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -90,235 +90,274 @@
     [
         "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\objects\\Fruit__c\\Fruit__c.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\objects\\Fruit__c\\Fruit__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2058,
             "modifiedTime": 1553152010838,
             "changeTime": 1553152010838,
-            "contentHash": "6e41b2672890097d46ddd578ffa6417838d5758d"
+            "contentHash": "6e41b2672890097d46ddd578ffa6417838d5758d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\objects\\Fruit__c\\listViews\\All.listView-meta.xml",
         {
-            "state": "u",
             "sourcePath": "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\objects\\Fruit__c\\listViews\\All.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 204,
             "modifiedTime": 1553152010850,
             "changeTime": 1553152010850,
-            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd"
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\layouts\\Fruit__c-Fruit Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\layouts\\Fruit__c-Fruit Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1947,
             "modifiedTime": 1553152010862,
             "changeTime": 1553152010862,
-            "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff"
+            "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\flexipages\\Global_Fruits_UtilityBar.flexipage-meta.xml",
         {
-            "state": "u",
             "sourcePath": "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\flexipages\\Global_Fruits_UtilityBar.flexipage-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 508,
             "modifiedTime": 1553152010870,
             "changeTime": 1553152010870,
-            "contentHash": "514aca320c1d3366024900ac5fe660f37ca23916"
+            "contentHash": "514aca320c1d3366024900ac5fe660f37ca23916",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\tabs\\Fruit__c.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\tabs\\Fruit__c.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 227,
             "modifiedTime": 1553152010874,
             "changeTime": 1553152010874,
-            "contentHash": "fc876039b38c08618da83097bcc770c2f8cc0346"
+            "contentHash": "fc876039b38c08618da83097bcc770c2f8cc0346",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\applications\\Global_Fruits.app-meta.xml",
         {
-            "state": "u",
             "sourcePath": "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\applications\\Global_Fruits.app-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 608,
             "modifiedTime": 1553152010878,
             "changeTime": 1553152010878,
-            "contentHash": "af00ddaf54d4d2dcecacad32898b235e34c9f831"
+            "contentHash": "af00ddaf54d4d2dcecacad32898b235e34c9f831",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 19303,
             "modifiedTime": 1553152010906,
             "changeTime": 1553152010906,
-            "contentHash": "cd967cd89dbb8d2e958d4388963bddab3cfd8404"
+            "contentHash": "cd967cd89dbb8d2e958d4388963bddab3cfd8404",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4830,
             "modifiedTime": 1553152010918,
             "changeTime": 1553152010918,
-            "contentHash": "7705815ea89b5d2268b35ae0f281419695286904"
+            "contentHash": "7705815ea89b5d2268b35ae0f281419695286904",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5168,
             "modifiedTime": 1553152010926,
             "changeTime": 1553152010926,
-            "contentHash": "a8fa016376b90eeea605a2e229ca59b3752c4c77"
+            "contentHash": "a8fa016376b90eeea605a2e229ca59b3752c4c77",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4830,
             "modifiedTime": 1553152010942,
             "changeTime": 1553152010942,
-            "contentHash": "7705815ea89b5d2268b35ae0f281419695286904"
+            "contentHash": "7705815ea89b5d2268b35ae0f281419695286904",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\objects\\Fruit__c",
         {
-            "state": "u",
             "sourcePath": "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\objects\\Fruit__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1553152010846,
             "changeTime": 1553152010846,
-            "contentHash": "2e25542ecdcd15b4d6f55f62d0dcce890ec95770"
+            "contentHash": "2e25542ecdcd15b4d6f55f62d0dcce890ec95770",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\objects",
         {
-            "state": "u",
             "sourcePath": "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1553152010838,
             "changeTime": 1553152010838,
-            "contentHash": "e5e02b5b544b75f660aa97a44c1a361d5fd2112c"
+            "contentHash": "e5e02b5b544b75f660aa97a44c1a361d5fd2112c",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\objects\\Fruit__c\\listViews",
         {
-            "state": "u",
             "sourcePath": "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\objects\\Fruit__c\\listViews",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1553152010846,
             "changeTime": 1553152010846,
-            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\layouts",
         {
-            "state": "u",
             "sourcePath": "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1553152010862,
             "changeTime": 1553152010862,
-            "contentHash": "34c6cd682ae6f398dd3c7d51a0f2e623bbdc23ef"
+            "contentHash": "34c6cd682ae6f398dd3c7d51a0f2e623bbdc23ef",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\flexipages",
         {
-            "state": "u",
             "sourcePath": "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\flexipages",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1553152010870,
             "changeTime": 1553152010870,
-            "contentHash": "fe2782140b606aa72c547b8466d379d76541e7a9"
+            "contentHash": "fe2782140b606aa72c547b8466d379d76541e7a9",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\tabs",
         {
-            "state": "u",
             "sourcePath": "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1553152010874,
             "changeTime": 1553152010874,
-            "contentHash": "60eec67ed4d8184a3c0378106174081de1f1eb35"
+            "contentHash": "60eec67ed4d8184a3c0378106174081de1f1eb35",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\applications",
         {
-            "state": "u",
             "sourcePath": "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\applications",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1553152010878,
             "changeTime": 1553152010878,
-            "contentHash": "66fb016aa8a894bb6db9832f5fc80b9de2b328cf"
+            "contentHash": "66fb016aa8a894bb6db9832f5fc80b9de2b328cf",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\profiles",
         {
-            "state": "u",
             "sourcePath": "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1553152010942,
             "changeTime": 1553152010942,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553170805748,
+            "changeTime": 1553170805748,
+            "contentHash": "b0e4858e16dd29bcedd1eb134f6b83a7329ce8cf"
+        }
+    ],
+    [
+        "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\classes\\demo_dx.cls",
+        {
+            "state": "u",
+            "sourcePath": "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\classes\\demo_dx.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 68,
+            "modifiedTime": 1553170805732,
+            "changeTime": 1553170805732,
+            "contentHash": "73a0655d8ae0bfd38064d2e733bdc47185da04f6"
+        }
+    ],
+    [
+        "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\classes\\demo_dx.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "E:\\Projects\\2019\\SFDX\\FruitsImportExport\\force-app\\main\\default\\classes\\demo_dx.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 185,
+            "modifiedTime": 1553170805748,
+            "changeTime": 1553170805748,
+            "contentHash": "de109560fc2d485ad34b7d118e8c16e3458f6359"
         }
     ]
 ]
