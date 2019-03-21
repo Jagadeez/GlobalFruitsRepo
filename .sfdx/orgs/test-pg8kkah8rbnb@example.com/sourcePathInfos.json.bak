@@ -9,7 +9,7 @@
             "changeTime": 1553105036426,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
             "isMetadataFile": false,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -24,7 +24,7 @@
             "changeTime": 1553105036426,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
             "isMetadataFile": false,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -39,7 +39,7 @@
             "changeTime": 1553152010894,
             "contentHash": "1ac95324ce0f74f2726d3242841d0c1a75b55bdc",
             "isMetadataFile": false,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -54,7 +54,7 @@
             "changeTime": 1553152010878,
             "contentHash": "66fb016aa8a894bb6db9832f5fc80b9de2b328cf",
             "isMetadataFile": false,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -69,7 +69,7 @@
             "changeTime": 1553152010878,
             "contentHash": "af00ddaf54d4d2dcecacad32898b235e34c9f831",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -84,7 +84,7 @@
             "changeTime": 1553105036427,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -99,7 +99,7 @@
             "changeTime": 1553152010870,
             "contentHash": "fe2782140b606aa72c547b8466d379d76541e7a9",
             "isMetadataFile": false,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -114,7 +114,7 @@
             "changeTime": 1553152010870,
             "contentHash": "514aca320c1d3366024900ac5fe660f37ca23916",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -129,7 +129,7 @@
             "changeTime": 1553152010862,
             "contentHash": "34c6cd682ae6f398dd3c7d51a0f2e623bbdc23ef",
             "isMetadataFile": false,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -144,7 +144,7 @@
             "changeTime": 1553152010862,
             "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -159,7 +159,7 @@
             "changeTime": 1553105152994,
             "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
             "isMetadataFile": false,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -174,7 +174,7 @@
             "changeTime": 1553152010838,
             "contentHash": "e5e02b5b544b75f660aa97a44c1a361d5fd2112c",
             "isMetadataFile": false,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -189,7 +189,7 @@
             "changeTime": 1553152010846,
             "contentHash": "2e25542ecdcd15b4d6f55f62d0dcce890ec95770",
             "isMetadataFile": false,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -204,7 +204,7 @@
             "changeTime": 1553152010838,
             "contentHash": "6e41b2672890097d46ddd578ffa6417838d5758d",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -219,7 +219,7 @@
             "changeTime": 1553152010846,
             "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
             "isMetadataFile": false,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -234,7 +234,7 @@
             "changeTime": 1553152010850,
             "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -249,7 +249,7 @@
             "changeTime": 1553152010942,
             "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
             "isMetadataFile": false,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -264,7 +264,7 @@
             "changeTime": 1553152010906,
             "contentHash": "cd967cd89dbb8d2e958d4388963bddab3cfd8404",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -279,7 +279,7 @@
             "changeTime": 1553152010918,
             "contentHash": "7705815ea89b5d2268b35ae0f281419695286904",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -294,7 +294,7 @@
             "changeTime": 1553152010942,
             "contentHash": "7705815ea89b5d2268b35ae0f281419695286904",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -309,7 +309,7 @@
             "changeTime": 1553152010926,
             "contentHash": "a8fa016376b90eeea605a2e229ca59b3752c4c77",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -324,7 +324,7 @@
             "changeTime": 1553152010874,
             "contentHash": "60eec67ed4d8184a3c0378106174081de1f1eb35",
             "isMetadataFile": false,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -339,7 +339,7 @@
             "changeTime": 1553152010874,
             "contentHash": "fc876039b38c08618da83097bcc770c2f8cc0346",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -354,204 +354,9 @@
             "changeTime": 1553169876020,
             "contentHash": "c2a57530d88375f4c29967709c4598575390d4ad",
             "isMetadataFile": false,
-            "state": "u",
+            "state": "n",
             "isWorkspace": true,
             "isArtifactRoot": false
-        }
-    ],
-    [
-        "E:\\projects\\2019\\sfdx\\fruitsImportExport\\force-app\\main\\default\\classes",
-        {
-            "state": "u",
-            "sourcePath": "E:\\projects\\2019\\sfdx\\fruitsImportExport\\force-app\\main\\default\\classes",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 0,
-            "modifiedTime": 1553174599855,
-            "changeTime": 1553174599855,
-            "contentHash": "d0eec09b7413edcbf4894a07f37504fa1ff39058"
-        }
-    ],
-    [
-        "E:\\projects\\2019\\sfdx\\fruitsImportExport\\force-app\\main\\default\\aura\\testcomponent",
-        {
-            "state": "u",
-            "sourcePath": "E:\\projects\\2019\\sfdx\\fruitsImportExport\\force-app\\main\\default\\aura\\testcomponent",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 0,
-            "modifiedTime": 1553181182694,
-            "changeTime": 1553181182694,
-            "contentHash": "b01bf57bbc8c1ffcf4f2dfc33ef4d295a2764090"
-        }
-    ],
-    [
-        "E:\\projects\\2019\\sfdx\\fruitsImportExport\\force-app\\main\\default\\classes\\class_2.cls",
-        {
-            "state": "u",
-            "sourcePath": "E:\\projects\\2019\\sfdx\\fruitsImportExport\\force-app\\main\\default\\classes\\class_2.cls",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 146,
-            "modifiedTime": 1553174639978,
-            "changeTime": 1553174639978,
-            "contentHash": "c8114eed5d87246f79ab4fb5613ef3f375b6af56"
-        }
-    ],
-    [
-        "E:\\projects\\2019\\sfdx\\fruitsImportExport\\force-app\\main\\default\\classes\\class_2.cls-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "E:\\projects\\2019\\sfdx\\fruitsImportExport\\force-app\\main\\default\\classes\\class_2.cls-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 185,
-            "modifiedTime": 1553174599855,
-            "changeTime": 1553174599855,
-            "contentHash": "8ee83b00648d4023f73587f7ab679a8722908db5"
-        }
-    ],
-    [
-        "E:\\projects\\2019\\sfdx\\fruitsImportExport\\force-app\\main\\default\\classes\\demo_dx.cls",
-        {
-            "state": "u",
-            "sourcePath": "E:\\projects\\2019\\sfdx\\fruitsImportExport\\force-app\\main\\default\\classes\\demo_dx.cls",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 111,
-            "modifiedTime": 1553174230941,
-            "changeTime": 1553174230941,
-            "contentHash": "b334f9505673e32df13c2b1397e0306bd9829659"
-        }
-    ],
-    [
-        "E:\\projects\\2019\\sfdx\\fruitsImportExport\\force-app\\main\\default\\classes\\demo_dx.cls-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "E:\\projects\\2019\\sfdx\\fruitsImportExport\\force-app\\main\\default\\classes\\demo_dx.cls-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 185,
-            "modifiedTime": 1553170805748,
-            "changeTime": 1553170805748,
-            "contentHash": "de109560fc2d485ad34b7d118e8c16e3458f6359"
-        }
-    ],
-    [
-        "E:\\projects\\2019\\sfdx\\fruitsImportExport\\force-app\\main\\default\\aura\\testcomponent\\testcomponent.auradoc",
-        {
-            "state": "u",
-            "sourcePath": "E:\\projects\\2019\\sfdx\\fruitsImportExport\\force-app\\main\\default\\aura\\testcomponent\\testcomponent.auradoc",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 209,
-            "modifiedTime": 1553181182694,
-            "changeTime": 1553181182694,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
-        }
-    ],
-    [
-        "E:\\projects\\2019\\sfdx\\fruitsImportExport\\force-app\\main\\default\\aura\\testcomponent\\testcomponent.cmp",
-        {
-            "state": "u",
-            "sourcePath": "E:\\projects\\2019\\sfdx\\fruitsImportExport\\force-app\\main\\default\\aura\\testcomponent\\testcomponent.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 108,
-            "modifiedTime": 1553181787166,
-            "changeTime": 1553181787166,
-            "contentHash": "7542d6ad6dfb2c2393b9e934850771f3200e0e1b"
-        }
-    ],
-    [
-        "E:\\projects\\2019\\sfdx\\fruitsImportExport\\force-app\\main\\default\\aura\\testcomponent\\testcomponent.cmp-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "E:\\projects\\2019\\sfdx\\fruitsImportExport\\force-app\\main\\default\\aura\\testcomponent\\testcomponent.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 245,
-            "modifiedTime": 1553181182631,
-            "changeTime": 1553181182631,
-            "contentHash": "dc0b323eda854d6d91ffbbbfad617abaada7b637"
-        }
-    ],
-    [
-        "E:\\projects\\2019\\sfdx\\fruitsImportExport\\force-app\\main\\default\\aura\\testcomponent\\testcomponent.css",
-        {
-            "state": "u",
-            "sourcePath": "E:\\projects\\2019\\sfdx\\fruitsImportExport\\force-app\\main\\default\\aura\\testcomponent\\testcomponent.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 10,
-            "modifiedTime": 1553181182694,
-            "changeTime": 1553181182694,
-            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703"
-        }
-    ],
-    [
-        "E:\\projects\\2019\\sfdx\\fruitsImportExport\\force-app\\main\\default\\aura\\testcomponent\\testcomponent.design",
-        {
-            "state": "u",
-            "sourcePath": "E:\\projects\\2019\\sfdx\\fruitsImportExport\\force-app\\main\\default\\aura\\testcomponent\\testcomponent.design",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 40,
-            "modifiedTime": 1553181182694,
-            "changeTime": 1553181182694,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
-        }
-    ],
-    [
-        "E:\\projects\\2019\\sfdx\\fruitsImportExport\\force-app\\main\\default\\aura\\testcomponent\\testcomponent.svg",
-        {
-            "state": "u",
-            "sourcePath": "E:\\projects\\2019\\sfdx\\fruitsImportExport\\force-app\\main\\default\\aura\\testcomponent\\testcomponent.svg",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 661,
-            "modifiedTime": 1553181182694,
-            "changeTime": 1553181182694,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
-        }
-    ],
-    [
-        "E:\\projects\\2019\\sfdx\\fruitsImportExport\\force-app\\main\\default\\aura\\testcomponent\\testcomponentController.js",
-        {
-            "state": "u",
-            "sourcePath": "E:\\projects\\2019\\sfdx\\fruitsImportExport\\force-app\\main\\default\\aura\\testcomponent\\testcomponentController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 65,
-            "modifiedTime": 1553181182647,
-            "changeTime": 1553181182647,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
-        }
-    ],
-    [
-        "E:\\projects\\2019\\sfdx\\fruitsImportExport\\force-app\\main\\default\\aura\\testcomponent\\testcomponentHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "E:\\projects\\2019\\sfdx\\fruitsImportExport\\force-app\\main\\default\\aura\\testcomponent\\testcomponentHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1553181182678,
-            "changeTime": 1553181182678,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
-        }
-    ],
-    [
-        "E:\\projects\\2019\\sfdx\\fruitsImportExport\\force-app\\main\\default\\aura\\testcomponent\\testcomponentRenderer.js",
-        {
-            "state": "u",
-            "sourcePath": "E:\\projects\\2019\\sfdx\\fruitsImportExport\\force-app\\main\\default\\aura\\testcomponent\\testcomponentRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1553181182694,
-            "changeTime": 1553181182694,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
